@@ -1,2 +1,2 @@
-# C74-Teacher-boilerplate
-boilerplate code for teacher
+# C74-Código boilerplate
+Código Boiler plate para la maestra
